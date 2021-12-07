@@ -8,5 +8,6 @@ I used a Regression Algorithms which can provide us with a continuous value as r
 
 
 In this project a machine learning models that can accurately predict the price of a used car based on its features, in order to make informed purchases.<br> 
-The dataset consisting of the selling prices of different makes and models of vehicles with respect to various features such as current mileage, location of sale, age of vehicle etc. <br> I have developed a baseline machine learning algorithms like Linear Regression, DecisionTreeRegressor, KNeighborsRegressor, XGBRegressor, RandomForestRegressor and choose the best out of it.<br>
-Then hyper parameter tuning is performed on the best model to get best results. 
+The dataset consisting of the selling prices of different makes and models of vehicles with respect to various features such as current mileage, location of sale, age of vehicle etc. <br> I have developed a baseline machine learning algorithms like Linear Regression, DecisionTreeRegressor, KNeighborsRegressor, XGBRegressor, RandomForestRegressor and choose the best out of it. Then hyper parameter tuning is performed on the selected model for final model to get best results. 
+
+Final predictions are made on unseen data with the final model.
