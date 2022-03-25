@@ -6,7 +6,9 @@ It could also be possible that the seller also has no idea about the vehicles’
 To address this problem I have developed a Used Car Price Prediction system which can effectively determines the price of a vehicle using various features.<br>
 I used a Regression Algorithms which can provide us with a continuous value as recommeded selling price.<br>
 
-
-The dataset consisting of the selling prices of different makes and models of vehicles with respect to various features such as current mileage, location of sale, age of vehicle etc. <br> I have developed a baseline machine learning algorithms like Linear Regression, DecisionTreeRegressor, KNeighborsRegressor, XGBRegressor, RandomForestRegressor and choose the best out of it. Then hyper parameter tuning is performed on the selected model for final model to get best results. 
+## The Dataset
+The dataset consisting of the selling prices of different makes and models of vehicles with respect to various features such as current mileage, location of sale, age of vehicle etc. <br> 
+## Implementation
+I have developed a baseline machine learning algorithms like Linear Regression, DecisionTreeRegressor, KNeighborsRegressor, XGBRegressor, RandomForestRegressor and choose the best out of it. Then hyper parameter tuning is performed on the selected model for final model to get best results. 
 
 Final predictions are made on unseen data with the final model.
